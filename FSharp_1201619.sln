@@ -5,6 +5,10 @@ VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FSharp_1201619", "FSharp_1201619\FSharp_1201619.fsproj", "{5D6B7092-5BD3-47BC-B8FE-056405D950D4}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "PruebaAPI FSharp", "PruebaAPI FSharp\PruebaAPI FSharp.fsproj", "{D26B4C0C-6B07-4817-AE07-A3A3C43FDB21}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MinimalAPI", "MinimalAPI\MinimalAPI.fsproj", "{17B9D6FD-B25E-4777-9DA4-277B490E3B0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{5D6B7092-5BD3-47BC-B8FE-056405D950D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D6B7092-5BD3-47BC-B8FE-056405D950D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D6B7092-5BD3-47BC-B8FE-056405D950D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D26B4C0C-6B07-4817-AE07-A3A3C43FDB21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D26B4C0C-6B07-4817-AE07-A3A3C43FDB21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D26B4C0C-6B07-4817-AE07-A3A3C43FDB21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D26B4C0C-6B07-4817-AE07-A3A3C43FDB21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17B9D6FD-B25E-4777-9DA4-277B490E3B0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B9D6FD-B25E-4777-9DA4-277B490E3B0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B9D6FD-B25E-4777-9DA4-277B490E3B0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B9D6FD-B25E-4777-9DA4-277B490E3B0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
